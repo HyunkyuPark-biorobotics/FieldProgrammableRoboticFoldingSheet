@@ -8,7 +8,7 @@ The code includes:
 
 - `main.py`: Script to train the RNI model on a given dataset.
 - `modules/RNI_Network.py`: Contains the implementation of the RNI neural network.
-- `utils.py`: Utility functions for loading datasets, saving history, etc.
+- `utils/utils.py`: Utility functions for loading datasets, saving history, etc.
 
 ## Requirements
 
