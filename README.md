@@ -69,6 +69,7 @@ Following data is saved in the 'checkpoints' directory.
 The dataset is synthesized by MATLAB, stored as '.mat' format.
 Please download the file from the following link:
 
+https://drive.google.com/file/d/10gqsUo3axfFWQx3C_yWNRf0NdhoKSaQ6/view?usp=drive_link
 
 ---
 
