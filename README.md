@@ -2,8 +2,9 @@
 
 
 This repository contains code for Resistive Network Imaging (RNI) of field-Programmable Robotic Folding Sheet. 
-## Overview
 ![image](https://github.com/HyunkyuPark-biorobotics/FieldProgrammableRoboticFoldingSheet/assets/44401853/4a1e3789-8d24-47b2-bcc4-9362d35048c8)
+
+## Overview
 
 The code includes:
 
