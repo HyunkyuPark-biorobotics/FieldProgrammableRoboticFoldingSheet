@@ -66,15 +66,9 @@ Following data is saved in the 'checkpoints' directory.
 
 ## Dataset
 
-Ensure that your dataset is stored in the `dataset` directory before running the code. Modify the `path` variable in `main.py` to specify the dataset path if necessary.
+The dataset is synthesized by MATLAB, stored as '.mat' format.
+Please download the file from the following link:
 
-## Acknowledgments
-
-- This code is based on [cite the source if applicable].
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
