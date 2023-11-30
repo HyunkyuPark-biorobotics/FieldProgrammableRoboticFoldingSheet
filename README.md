@@ -23,8 +23,8 @@ The code includes:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/repo-name.git
-    cd repo-name
+    git clone https://github.com/HyunkyuPark-biorobotics/Field_Programmable_Robotic_Folding_Sheet.git
+    cd Field_Programmable_Robotic_Folding_Sheet
     ```
 
 2. Set up a virtual environment (optional but recommended):
