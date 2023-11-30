@@ -1,7 +1,9 @@
-# Field Programmable Robotic Folding Sheet
+# Field-Programmable Robotic Folding Sheet
 
 
-This repository contains code for the Resistive Network Imaiging (RNI) of feild-programmable Actuation RNI. 
+This repository contains code for Resistive Network Imaging (RNI) of field-Programmable Robotic Folding Sheet. 
+![image](https://github.com/HyunkyuPark-biorobotics/FieldProgrammableRoboticFoldingSheet/assets/44401853/4a1e3789-8d24-47b2-bcc4-9362d35048c8)
+
 ## Overview
 
 The code includes:
@@ -23,8 +25,8 @@ The code includes:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/repo-name.git
-    cd repo-name
+    git clone https://github.com/HyunkyuPark-biorobotics/FieldProgrammableRoboticFoldingSheet.git
+    cd FieldProgrammableRoboticFoldingSheet
     ```
 
 2. Set up a virtual environment (optional but recommended):
@@ -59,20 +61,17 @@ Replace `<experiment_name>`, `<num_epochs>`, `<batch_size>`, `<learning_rate>`, 
 - `--noise_level`: Level of input noise.
 
 ### Output
-
-The trained model, validation loss history, mean, and standard deviation of the training dataset will be saved in the `checkpoints` directory.
+Following data is saved in the 'checkpoints' directory.
+1) The trained model
+2) validation loss history
+3) mean /standard deviation of the training data normalization 
 
 ## Dataset
 
-Ensure that your dataset is stored in the `dataset` directory before running the code. Modify the `path` variable in `main.py` to specify the dataset path if necessary.
+The dataset is synthesized by MATLAB, stored as '.mat' format.
+Please download the file from the following link:
 
-## Acknowledgments
-
-- This code is based on [cite the source if applicable].
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+https://drive.google.com/file/d/10gqsUo3axfFWQx3C_yWNRf0NdhoKSaQ6/view?usp=drive_link
 
 ---
 
