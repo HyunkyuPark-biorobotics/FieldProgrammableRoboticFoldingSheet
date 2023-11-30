@@ -1,8 +1,7 @@
 # Field Programmable Robotic Folding Sheet
 
 
-This repository contains code for a Programmable Actuation RNI (Recurrent Neural Network with Input Noise) model. The code is used for training the model on a specific dataset and saving the trained model for future use.
-
+This repository contains code for the Resistive Network Imaiging (RNI) of feild-programmable Actuation RNI. 
 ## Overview
 
 The code includes:
