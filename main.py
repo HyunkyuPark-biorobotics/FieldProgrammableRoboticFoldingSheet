@@ -5,7 +5,7 @@ from tensorflow.python.keras import optimizers
 
 from tensorflow.python.keras.callbacks import EarlyStopping
 
-from network import RNI_Network
+from modules import RNI_Network
 from utils import load_dataset, save_history
 
 os.environ["CUDA_VISIBLE_DEVICES"]="2"
