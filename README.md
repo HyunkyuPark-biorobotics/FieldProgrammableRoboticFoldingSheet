@@ -1,7 +1,7 @@
-# Field Programmable Robotic Folding Sheet
+# Field-Programmable Robotic Folding Sheet
 
 
-This repository contains code for the Resistive Network Imaiging (RNI) of feild-programmable Actuation RNI. 
+This repository contains code for Resistive Network Imaging (RNI) of field-Programmable Robotic Folding Sheet. 
 ## Overview
 
 The code includes:
