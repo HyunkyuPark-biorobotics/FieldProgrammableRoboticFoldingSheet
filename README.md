@@ -59,8 +59,10 @@ Replace `<experiment_name>`, `<num_epochs>`, `<batch_size>`, `<learning_rate>`, 
 - `--noise_level`: Level of input noise.
 
 ### Output
-
-The trained model, validation loss history, mean, and standard deviation of the training dataset will be saved in the `checkpoints` directory.
+Following data is saved in the 'checkpoints' directory.
+1) The trained model
+2) validation loss history
+) mean /standard deviation of the training data normalization 
 
 ## Dataset
 
