@@ -62,7 +62,7 @@ Replace `<experiment_name>`, `<num_epochs>`, `<batch_size>`, `<learning_rate>`, 
 Following data is saved in the 'checkpoints' directory.
 1) The trained model
 2) validation loss history
-) mean /standard deviation of the training data normalization 
+3) mean /standard deviation of the training data normalization 
 
 ## Dataset
 
